@@ -1,2 +1,2 @@
-# Pr-cticaPhython11
+# PracticaPhython11
 ROSA MARÍA SALINAS HERRERA
