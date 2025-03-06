@@ -1,3 +1,3 @@
-cm = int(input("Ingrese el numero de centimetros: "))
+cm = int(input("Ingrese el número de centímetros: "))
 pulgadas = cm / 2.54
-print("El numero de centimetros en pulgadas es: ", pul)
+print("El número de centímetros en pulgadas es: ", pulgadas)
