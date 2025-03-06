@@ -1,4 +1,4 @@
-n = int(input("Ingrese número: "))
+n = int(input("Ingrese un número de tres dígitos: "))
 d1 = n // 100
 d2 = (n // 10) % 10
 d3 = n % 10
