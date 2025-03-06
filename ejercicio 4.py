@@ -1,4 +1,4 @@
-n1 = int(input("Digite el primer numero: "))
+n1 = int(input("Digite el primer número: "))
 n2 = int(input("Digite el segundo número: "))
 n3 = int(input("Digite el tercer número: "))
 n4 = int(input("Digite el cuarto número: "))
